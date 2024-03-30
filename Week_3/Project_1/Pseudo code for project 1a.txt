@@ -1,0 +1,9 @@
+# Start
+# Purchase the item
+# DO you want to purchase any othe item 
+# If yes pick the item 
+# Else proceed to check out
+# Confirm identification 
+# Confirm the items added to cart for purchase
+# Pay up 
+# Stop 
